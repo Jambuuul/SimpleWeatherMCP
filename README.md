@@ -3,7 +3,7 @@ This is a simple MCP server with weather information, written on C#. It consists
 `weather://{cityName}` resource: return same information as a tool.
 
 ### How to run
-To build, simply write in project directory:
+To build, simply write in project directory:  
 `dotnet build`  
   
 To run, as expected:  
