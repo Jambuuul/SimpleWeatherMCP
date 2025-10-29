@@ -10,4 +10,4 @@ To run, as expected:
 `dotnet run`  
 
 You can use mcp-inspector to test functionality. In project directory:  
-npx @modelcontextprotocol/inspector dotnet run
+`npx @modelcontextprotocol/inspector dotnet run`
